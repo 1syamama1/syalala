@@ -7,3 +7,9 @@ b	saya tidak kmana mana, dimana kamu sekarang
 a	sya di tangerang
 
 b	sya di surabaya
+
+a apa kabarmu?
+
+b saya baik, gimana dengan mu
+
+a saya juga baik

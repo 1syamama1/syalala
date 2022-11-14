@@ -1,19 +1,19 @@
-b	syafri
+b syafri
 
-a	kamu kmana saja
+a kamu kmana saja
 
-b	saya tidak kmana mana, dimana kamu sekarang
+b saya tidak kmana mana, dimana kamu sekarang
 
-a	sya di tangerang
+a sya di tangerang
 
-b	sya di surabaya
+b sya di surabaya
 
-a 	apa kabarmu?
+a apa kabarmu?
 
-b 	saya baik, gimana dengan mu
+b saya baik, gimana dengan mu
 
-a 	saya juga baik
+a saya juga baik
 
-b	oke terimakasih
+b oke terimakasih
 
-a 	oke terimakasih juga
+a oke terimakasih juga

@@ -1,5 +1,9 @@
-syafri
+b	syafri
 
-kamu kmana saja
+a	kamu kmana saja
 
-saya tidak kmana mana, dimana kamu sekarang
+b	saya tidak kmana mana, dimana kamu sekarang
+
+a	sya di tangerang
+
+b	sya di surabaya

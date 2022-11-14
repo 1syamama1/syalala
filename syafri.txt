@@ -8,9 +8,9 @@ a	sya di tangerang
 
 b	sya di surabaya
 
-a apa kabarmu?
+a   apa kabarmu?
 
-b saya baik, gimana dengan mu
+b   saya baik, gimana dengan mu
 
 a saya juga baik
 
